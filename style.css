@@ -1,0 +1,104 @@
+
+
+.bond{
+    background-color: rgb(67, 66, 66);
+}
+.b{
+    font-size: 12px;
+
+}
+.bag{
+    background-color: black;
+}
+.him {
+    position: sticky;
+    background-color: transparent;
+    top: 0;
+    width: 100%;
+    z-index: 999;
+  }
+  .bonda{
+      background-color: rgb(26, 25, 25);
+  }
+.ram{
+    font-size: 11px;
+}
+
+.gun:hover {
+        box-shadow: 0 0 11px rgba(33,33,33,.2); 
+      }
+.bun{
+    color: rgb(2, 2, 118);
+
+}
+.containe {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  
+  /* Bottom left text */
+  .bottom-left {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+  }
+  
+  /* Top left text */
+  .top-left {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+  }
+  
+  /* Top right text */
+  .top-right {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+  }
+  
+  
+  .god{
+      font-size: 33px;
+  }
+  .txt{
+      color: rgb(206, 16, 130);
+  }
+  .sam{
+      font-size: 13px;
+      
+  }
+  .sam1{
+    text-decoration: none;
+    color: rgb(171, 170, 170);
+  }
+  .bunk:hover{
+     border-color: rgb(189, 185, 185);
+     color: rgb(189, 185, 185);
+    
+
+  }
+  .sam1:hover{
+      text-decoration: underline;
+      color: white;
+  }
+  .carousel .carousel-indicators button {
+    width: 10px;
+   height: 10px;
+   border-radius: 100%;
+   z-index: 1000px;
+ }
+ .carousel .carousel-indicators button {
+    width: 10px;
+   height: 10px;
+   border-radius: 100%;
+   z-index: 1000px;
+ }
+ .abs{
+     color: rgb(201, 200, 198);
+ }
+ .hat{
+   text-decoration: none;
+
+ }
